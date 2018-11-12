@@ -1,0 +1,21 @@
+table {
+    width: 310px;
+    margin: 50px auto;
+    background: gray;
+    border: none;
+    border-radius: 10px;
+    padding: 0px 20px 20px;
+}
+
+#input, #answer {
+    height: 50px;
+    font-size: 130%;
+    text-align: right;
+    border: none;
+}
+input[type =button]{
+    height: 60px;
+    width: 60px;
+    margin: 1px;
+    border-radius: 8px;
+}
